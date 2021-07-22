@@ -1,0 +1,11 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.app {
+  border: 1px solid #cccccc;
+  width: 400px;
+  margin: 0 auto;
+  padding: 10px;
+}
